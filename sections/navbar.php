@@ -11,8 +11,8 @@
           </div>
           <div class="logo">
             <a href="./" class="d-flex align-items-center">
-              <img src="<?= $baseURL ?>assets/img/logo.png" style="width: 60px;" alt="">
-              <h3 style="margin-left: 10px;">PKH</h3>
+              <img src="https://kemensos.go.id/uploads/topics/15854234115187.png" style="width: 100px;" alt="">
+              <!-- <h3 style="margin-left: 10px;">PKH</h3> -->
             </a>
           </div>
           <div class="ellepsis-bar d-lg-none">

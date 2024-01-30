@@ -7,14 +7,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="<?= $baseURL ?>assets/img/logo.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://kemensos.go.id/uploads/topics/15854234115187.png">
 
   <link rel="stylesheet" href="<?= $baseURL ?>assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="<?= $baseURL ?>assets/css/all.min.css">
   <link rel="stylesheet" href="<?= $baseURL ?>assets/css/icofont.min.css">
   <link rel="stylesheet" href="<?= $baseURL ?>assets/css/lightcase.css">
   <link rel="stylesheet" href="<?= $baseURL ?>assets/css/swiper.min.css">
-  <link rel="stylesheet" href="<?= $baseURL ?>assets/css/style.css">
+  <link rel="stylesheet" href="<?= $baseURL ?>assets/css/styles.css">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
